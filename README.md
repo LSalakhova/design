@@ -1,6 +1,6 @@
 # 🔍 Test Design Techniques
 
-Here I would like to showcase some of the test design techniques I decided to use for testing the webstore [Demoshopping.ru](https://demoshopping.ru/). All documentation is written in Russian language demonstrating my ability to use it as second language.
+Here I would like to showcase some of the test design techniques I decided to use for testing the webstore [Demoshopping.ru](https://demoshopping.ru/). All documentation is written in Russian language demonstrating my fluency in using it.
 1. [Testing the Registration Form. Equivalence Partitioning](https://docs.google.com/spreadsheets/d/1MkUJtjhiKJMQWLJzGnw9ePbWF7ftE1zZ6P61_MAmhuY/edit?usp=sharing)
 
    Conducting testing of the login "Логин" and password "Пароль" fields on the registration page for compliance with validation requirements and creating a table taking into account equivalence classes and boundary values.
